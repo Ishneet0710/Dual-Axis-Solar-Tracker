@@ -1,2 +1,2 @@
 # Dual-Axis-Solar-Tracker
-Built a dual axis solar tracker using an arduino
+Built a dual axis solar tracker using an arduino microcontroller.
